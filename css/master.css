@@ -130,6 +130,7 @@ footer {
 
     #product-info {
         display: unset;
+        margin: unset;
     }
 
     #product-img-container {
@@ -141,6 +142,7 @@ footer {
     .links {
         display: block;
         padding: 50px;
+        width: min-content;
     }
 
     .links-element {
